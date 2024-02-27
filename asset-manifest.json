@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/conch_static_web_page/static/js/main.c71eab37.js",
+    "main.js": "/conch_static_web_page/static/js/main.33cf7a29.js",
     "static/media/conch.png": "/conch_static_web_page/static/media/conch.f7fb596b8350ffe7e660.png",
     "index.html": "/conch_static_web_page/index.html",
-    "main.c71eab37.js.map": "/conch_static_web_page/static/js/main.c71eab37.js.map"
+    "main.33cf7a29.js.map": "/conch_static_web_page/static/js/main.33cf7a29.js.map"
   },
   "entrypoints": [
-    "static/js/main.c71eab37.js"
+    "static/js/main.33cf7a29.js"
   ]
 }
